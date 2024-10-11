@@ -8,4 +8,8 @@ Aber wir bekommen das hin.
 
 git branch -m NewName ####Bennent die alte Branch um in  den Namen NewName.
 git checkout -b features#### Erstellt eine neue Branch mit dem Namen features.
+<<<<<<< HEAD
 git merge branchName #### Kombiniert die Branches zusammen.
+=======
+####
+>>>>>>> feature
